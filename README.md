@@ -1,8 +1,11 @@
 # web-scraping-challenge
-mars-sc
+<br>
+<br>
+
 app.py is flask app <br>
-scrape_mars.py has scrape fn.
-mission_to_mars is initial scraping notebook
-templates > index.html is html file
+scrape_mars.py has scrape fn. <br>
+mission_to_mars is initial scraping notebook <br>
+templates > index.html is html file <br>
+
 
 
